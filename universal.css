@@ -1,0 +1,14 @@
+body{
+    height: auto;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+ul {
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+h1{
+    margin: 0;
+}
